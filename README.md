@@ -1,2 +1,2 @@
-# Investment-portfolio-optimization-
+# Investment portfolio optimization
 Various portfolio simulations.  
